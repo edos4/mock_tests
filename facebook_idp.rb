@@ -1,0 +1,1 @@
+class FacebookIdp < IdentityProvider; end
